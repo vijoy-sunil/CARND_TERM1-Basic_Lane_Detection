@@ -10,10 +10,8 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 In this project we will detect lane lines in images using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.  
 
-The Project
+The Environment
 ---
-
-## REFER WRITEUP.md file FOR MORE INFORMATION ON THE PIPELINE
 
 ## If you have already installed the [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) you should be good to go!   If not, you should install the starter kit to get started on this project. ##
 
@@ -31,5 +29,5 @@ A browser window will appear showing the contents of the current directory.  Cli
 
 **Step 3:** Run the project
 
-
+## REFER WRITEUP.md file FOR MORE INFORMATION ON THE PIPELINE
 
